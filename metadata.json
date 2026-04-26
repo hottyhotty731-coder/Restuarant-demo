@@ -1,6 +1,0 @@
-{
-  "name": "Restaurant Demo",
-  "description": "A refined culinary journey featuring modern minimalist design and an interactive ordering experience.",
-  "requestFramePermissions": ["camera"],
-  "majorCapabilities": []
-}
